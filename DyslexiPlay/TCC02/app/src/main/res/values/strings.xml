@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TCC0.2</string>
+
+
+    <string-array name="Titulo">
+        <item>Dislexia no mundo</item>
+        <item>Associação Brasileira de Dislexia</item>
+        <item>International Dyslexia Association</item>
+        <item>OpenDyslexic</item>
+        <item>Famosos Com Dislexia - Leonardo da Vinci</item>
+        <item>Famosos Com Dislexia - Albert Einstein</item>
+        <item>Famosos Com Dislexia - Charles Darwin</item>
+    </string-array>
+
+    <string-array name="Descricão">
+        <item>A dislexia é um distúrbio de aprendizagem caracterizado pela dificuldade de leitura, sendo muito comum,Segundo a Associação Brasileira de Dislexia (ABD), a dislexia é o distúrbio de maior incidência nas salas de aula e atinge entre 5% e 17% da população mundial. </item>
+        <item>A Associação Brasileira de Dislexia foi fundada em 1983 e é uma organização sem fins lucrativos com fins de educar e consientizar sobre a dislexia,alem de visar a melhoria do ensino e da vida para pessoas disléxicas, por exemplo provendo materiais de auxílio.</item>
+        <item>A International Dyslexia Association é uma organização sem fins lucrativos com fins de educar e consientizar a população sobre os disléxicos e seus problemas, são ligados à várias outras organizações com mesmos objetivos no mundo, como a Associação Brasileira de Dislexia.</item>
+        <item>O OpenDyslexic é uma fonte especial para disléxicos,desenvolvida para ajudar contra os sintomas mais comuns da dislexia,usando de formas únicas como a parte inferior mais realçada para indicar a direção, ajudando a reconhecer a letra e que parte dela é a de cima e a de baixo por exemplo. </item>
+        <item>Leonardo da Vinci,nascido em 15 de abril de 1452,foi um homem italiano de muitos talentos,sendo lembrado em várias áreas do conhecimento e artes, como sua famosa obra a Mona Lisa e ser creditado como o criador de um protótipo de helicóptero</item>
+        <item>Albert Einstein,nascido em 14 de março de 1879,foi um físico teórico alemão considerado como um dos homens mais inteligentes de sua era,sendo fundamental na área de teoria quântica, também é muito conhecido por ser o criador da chamada "equação mais famosa do mundo" a E = mc²,para calcular a equivalência de massa-energia.</item>
+        <item>Charles Darwin,nascido em 12 de fevereiro de 1809,foi um biólogo britânico celebrado por seu avanço sobre a teoria da evolução,foi ele que levantou a ideia de que os seres vivos descendem de ancestrais comuns e que por meios de seleções naturais e artificiais os seres vivos chegaram a ser o que são hoje, é o autor do livro "A Origem das Espécies" </item>
+    </string-array>
+
+    <string-array name="Links">
+        <item>http://portal.mec.gov.br/component/tags/tag/dislexia</item>
+        <item>https://www.dislexia.org.br</item>
+        <item>https://dyslexiaida.org</item>
+        <item>https://opendyslexic.org</item>
+        <item>https://www.dislex.co.pt/famosos-com-dislexia.html</item>
+        <item>https://www.dislex.co.pt/famosos-com-dislexia.html</item>
+        <item>https://www.dislex.co.pt/famosos-com-dislexia.html</item>
+    </string-array>
+
+
+</resources>
